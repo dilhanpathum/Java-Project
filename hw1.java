@@ -9,6 +9,7 @@ public class hw1 {
         System.out.println("***");
         System.out.println("****");
         System.out.println("*****");
+        System.out.println("******");
        
     }
 }
